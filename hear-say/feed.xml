@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>HEAR SAY — New Zealand</title>
+<link>https://hear-say-nz.vercel.app/</link>
+<description>Politics, old cases, lived experience, evidence, right of reply and moderated public discussion.</description>
+<language>en-NZ</language>
+<lastBuildDate>Sat, 22 Aug 2026 00:00:00 +1200</lastBuildDate>
+<item><title>Election 2026: the political circus</title><link>https://hear-say-nz.vercel.app/politics/election-2026/</link><guid>https://hear-say-nz.vercel.app/politics/election-2026/</guid><description>Election claims, polls, promises and public questions.</description><pubDate>Sat, 22 Aug 2026 00:00:00 +1200</pubDate></item>
+<item><title>Who killed Scott Guy?</title><link>https://hear-say-nz.vercel.app/cold-cases/scott-guy/</link><guid>https://hear-say-nz.vercel.app/cold-cases/scott-guy/</guid><description>A sourced public-record room for the unsolved killing of Scott Guy.</description><pubDate>Sat, 22 Aug 2026 00:00:00 +1200</pubDate></item>
+<item><title>Scott Watson: what is before the Supreme Court?</title><link>https://hear-say-nz.vercel.app/cold-cases/scott-watson/</link><guid>https://hear-say-nz.vercel.app/cold-cases/scott-watson/</guid><description>A case tracker focused on the limited Supreme Court appeal.</description><pubDate>Sat, 22 Aug 2026 00:00:00 +1200</pubDate></item>
+<item><title>Erased from her own life</title><link>https://hear-say-nz.vercel.app/stories/erased-from-her-own-life/</link><guid>https://hear-say-nz.vercel.app/stories/erased-from-her-own-life/</guid><description>A lived-experience story about practical access to justice.</description><pubDate>Sat, 22 Aug 2026 00:00:00 +1200</pubDate></item>
+</channel></rss>
